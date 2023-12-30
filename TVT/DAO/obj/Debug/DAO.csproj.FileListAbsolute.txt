@@ -1,0 +1,198 @@
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+D:\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EnvDTE.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\stdole.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\NuGet.Frameworks.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\NuGet.Frameworks.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\DAO\obj\Debug\DAO.pdb

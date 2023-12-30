@@ -1,0 +1,711 @@
+T:\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+T:\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+T:\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+T:\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+T:\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+T:\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+T:\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+T:\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+T:\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+T:\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+T:\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+T:\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+T:\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+T:\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+T:\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOAISANPHAM.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+T:\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOAISANPHAM.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+D:\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOAISANPHAM.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+C:\Users\ADMIN\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOAISANPHAM.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.MonHang.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+E:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\stdole.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x86\SqlServerSpatial160.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x64\SqlServerSpatial160.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Common.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Design.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.SqlServer.Types.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\stdole.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.xml
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe.config
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLoaiSanPham.resources
+T:\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNhaSanXuat.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\stdole.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDOANHTHU.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLoaiSanPham.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNhaSanXuat.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x86\SqlServerSpatial160.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\x64\SqlServerSpatial160.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\stdole.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.SuggestedBindingRedirects.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBaoCao.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLoaiSanPham.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNhaSanXuat.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHoaDonThanhToan.resources
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Thư mục mới\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\NuGet.Frameworks.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EnvDTE.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\stdole.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\BUS.dll.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DTO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\DAO.dll.config
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmADMIN.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBANHANG.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmDangKy.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmBaoCao.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHOADON.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmHoaDonThanhToan.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLoaiSanPham.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmLOGIN.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNHANVIEN.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmNhaSanXuat.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYHOADON.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYKHACHHANG.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYNHANVIEN.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.frmQUANLYSANPHAM.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.Properties.Resources.resources
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\TVTStore.csproj.CopyComplete
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.exe
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\frmAdmin.pdb
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\RdlCompile.cache
+C:\Users\FPT\Desktop\Này là đồ án new\Này là đồ án\ĐỒ ÁN\doan\TVT\frmAdmin\obj\Debug\RdlCompile.compiled
